@@ -45,7 +45,7 @@ public class Worker implements Serializable{
 
 	public void setName(String name) {
 		Name = name;
-	}
+	} 
 
 	public Double getDailyIncome() {
 		return dailyIncome;
